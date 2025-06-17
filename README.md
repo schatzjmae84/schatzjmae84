@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, my name is Jill! 👋
 
-<!--
-**schatzjmae84/schatzjmae84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: a new career in Front-end web development!
+- 🌱 I’m currently learning: how to navigate Java and Spring Boot
+- 👯 I’m looking to collaborate on: job hunting and tech networking
+- 💬 Ask me about: Music and Personal Training!
+- 📫 How to reach me: preferred email - schatzjm84@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I was a band director for 10 years, and was a founder of the North Texas Homeschool Marching Band!
+
+---
+
+Thanks for visiting! 🌟
